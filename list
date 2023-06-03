@@ -1,5 +1,5 @@
-a = enter a name : sankar
-b = enter a name : jaddu
+a = enter a name1 : sankar
+b = enter a name2 : jaddu
 a+b = "sankar jaddu"
 
 
